@@ -1,44 +1,63 @@
-# KiCad Hardware Design Project
+# 🧩 KiCad Hardware Design Project
 
-## Overview
-This repository contains an open-source **KiCad hardware design project**, including complete schematic and PCB layout files.  
-It is intended for learning, reference, and hardware prototyping purposes.
-
----
-
-## Tools Used
-- **KiCad** (Version 7 or later)
+## 🔍 Overview
+This repository contains an **open-source hardware design project created using KiCad**, including complete **schematic diagrams**, **PCB layout**, and **manufacturing-ready outputs**.  
+It is intended for **learning, reference, and practical PCB prototyping**.
 
 ---
 
-## Repository Structure
+## 🛠️ Tools Used
+- 🧰 **KiCad** (Version 7 or later)
+
+---
+
+## 🖼️ PCB Preview
+### 🔷 3D View
+![PCB 3D View](IMAGES/pcb_3d.png)
+
+### 🔷 Top Layer
+![PCB Top](IMAGES/pcb_top.png)
+
+### 🔷 Bottom Layer
+![PCB Bottom](IMAGES/pcb_bottom.png)
+
+---
+
+## 🗂️ Repository Structure
 HARDWARE/ → KiCad schematic and PCB design files
 IMAGES/ → Schematic, PCB layout, and 3D render images
 BOM/ → Bill of Materials
 GERBER/ → Manufacturing-ready Gerber files
-
 ---
 
-## How to Open the Project
+## 🚀 How to Open the Project
 1. Install **KiCad (v7 or later)**  
 2. Clone this repository  
-3. Open `project.kicad_pro` in KiCad  
+3. Open `project.kicad_pro` using KiCad  
 
 ---
 
-## Outputs
-- Complete schematic design  
-- PCB layout (top and bottom)  
-- 3D PCB visualization  
-- Bill of Materials  
-- Gerber files for fabrication  
+## 📦 Project Outputs
+- ✅ Complete schematic design  
+- ✅ PCB layout (top & bottom layers)  
+- ✅ 3D PCB visualization  
+- ✅ Bill of Materials (BOM)  
+- ✅ Gerber files for PCB fabrication  
 
 ---
 
-## License
-This project is licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2)**.
+## 📄 License
+📜 This project is licensed under the  
+**CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2)**.
+
+You are free to **use, study, modify, and share** this design under the same license terms.
 
 ---
 
-## Author
-Naraender S
+## 👤 Author
+**Naraender**  
+
+---
+
+## ⭐ Notes
+If you find this repository useful, consider **starring ⭐ it** and using it as a reference for your own KiCad projects.
