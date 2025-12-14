@@ -48,9 +48,7 @@ GERBER/ → Manufacturing-ready Gerber files
 
 ## 📄 License
 📜 This project is licensed under the  
-**CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2)**.
-
-You are free to **use, study, modify, and share** this design under the same license terms.
+MIT LICENSE
 
 ---
 
