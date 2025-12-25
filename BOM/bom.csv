@@ -1,9 +1,9 @@
-Reference,Value,Footprint,Quantity,Notes
-C1,Electrolytic Capacitor,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,1,Polarized
-C2,Ceramic Capacitor,Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,1,Non-polarized
-C3,Electrolytic Capacitor,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,1,Polarized
-D1,D2,D3,D4,1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,4,Rectifier diode
-D5,LED,LED_THT:LED_D5.0mm_FlatTop,1,Indicator LED
-J1,J2,Terminal Block 2-pin,TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,2.54mm pitch
-R1,Resistor,Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P20.32mm,1,Through-hole
-U1,L7805,Package_TO_SOT_THT:TO-220-3_Vertical,1,Voltage regulator
+Reference	Value	Footprint	Quantity	Notes
+C1	Electrolytic Capacitor	Capacitor_THT:CP_Radial_D12.5mm_P5.00mm	1	Polarized
+C2	Ceramic Capacitor	Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm	1	Non-polarized
+C3	Electrolytic Capacitor	Capacitor_THT:CP_Radial_D8.0mm_P5.00mm	1	Polarized
+D1–D4	1N4007	Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal	4	Rectifier diode
+D5	LED	LED_THT:LED_D5.0mm_FlatTop	1	Indicator LED
+J1, J2	Terminal Block 2-pin	TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1_2.54mm	2	Power / I/O
+R1	Resistor	Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P20.32mm	1	Through-hole
+U1	L7805	Package_TO_SOT_THT:TO-220-3_Vertical	1	Voltage regulator
